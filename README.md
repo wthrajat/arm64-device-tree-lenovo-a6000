@@ -1,5 +1,5 @@
 # Device configuration for Lenovo A6000(s)
-==================================================
+
 Basic   | Spec Sheet
 -------:|:-------------------------
 CPU     | Quad-core 1.2 GHz ARM® Cortex™ A53

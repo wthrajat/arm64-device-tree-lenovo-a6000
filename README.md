@@ -1,6 +1,4 @@
 # Device configuration for Lenovo A6000(s)
-
-#################################################
 ==================================================
 Basic   | Spec Sheet
 -------:|:-------------------------
@@ -34,7 +32,4 @@ BT       | QUALCOMM-MSM8916
 FM       | QUALCOMM-MSM8916
 GPS      | QUALCOMM-MSM8916
 ---------------------------------------------------------------------
-
-
-![lenovo a6000](http://img6a.flixcart.com/image/mobile/r/z/z/lenovo-a6000-plus-a6000-plus-400x400-imae6jegmgumrzzs.jpeg)
 
